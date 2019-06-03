@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "831080519375",
+    "firebase_url": "https://ipharma-3de3f.firebaseio.com",
+    "project_id": "ipharma-3de3f",
+    "storage_bucket": "ipharma-3de3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831080519375:android:b483644b1772fbb2",
+        "android_client_info": {
+          "package_name": "com.parasoftdevstudio.ipharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831080519375-hvmst7iunegj831v78tc7cipmde2q8j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfArJQqY4--fA58nU7Ic0t7Vx6S9DhV4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831080519375-hvmst7iunegj831v78tc7cipmde2q8j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
